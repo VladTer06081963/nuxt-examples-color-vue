@@ -27,5 +27,4 @@ html, body {
   grid-template-rows: auto 1fr auto; /* Три строки: Header, Main (растягивается), Footer */
   min-height: 100vh;
 }
-
 </style>

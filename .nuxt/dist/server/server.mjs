@@ -1,1 +1,1 @@
-export { default } from "file:///home/projects/nuxt-examples-tr5rkq/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
+export { default } from "file:///Users/vlad/Desktop/lesson/vite-color/nuxt-examples-color-vue/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"

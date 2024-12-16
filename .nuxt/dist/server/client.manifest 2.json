@@ -7,12 +7,12 @@
     "module": true,
     "resourceType": "script"
   },
-  "/Users/vlad/Desktop/lesson/vite-color/nuxt-examples-color-vue/node_modules/nuxt/dist/app/entry.js": {
+  "/home/projects/nuxt-examples-tr5rkq/node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
     "isEntry": true,
-    "file": "/Users/vlad/Desktop/lesson/vite-color/nuxt-examples-color-vue/node_modules/nuxt/dist/app/entry.js"
+    "file": "/home/projects/nuxt-examples-tr5rkq/node_modules/nuxt/dist/app/entry.js"
   }
 }
